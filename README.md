@@ -3,7 +3,7 @@
 This week is about getting to know the course and what to expect. We'll start by diving into
 a wild exercise: solving the classic Monty Hall problem using our own
 simulation in `R`. We will also take our first glance at literate
-programming: using `R markdown` to code and typeset in one document. 
+programming: using `R Markdown` to code and typeset in one document. 
 Yes, we’ll cover the syllabus and spend a bit of time getting to know everyone. 
 
 ## Preparation
@@ -18,6 +18,7 @@ Yes, we’ll cover the syllabus and spend a bit of time getting to know everyone
   to typing and executing commands, loading packages, etc. Compare your
   output with that given in the texts.
 
-## Class materials
+## Materials for class
 
-- The Monty Hall problem exercise
+- [The Monty Hall problem](https://github.com/SIS-data-analysis/01-monty-hall/blob/main/Monty-Hall-problem.pdf) exercise  
+- Course syllabus
